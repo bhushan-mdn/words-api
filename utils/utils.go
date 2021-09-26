@@ -1,4 +1,4 @@
-package main
+package utils
 
 import (
 	"context"
@@ -7,6 +7,7 @@ import (
 	"math/rand"
 	"os"
 
+	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
 )
@@ -27,7 +28,7 @@ func CheckError(e error) {
 	}
 }
 
-func getCollection() *mongo.Collection {
+func GetCollection() *mongo.Collection {
 	// Set client options
 	clientOptions := options.Client().ApplyURI(MONGODB_STRING)
 
@@ -43,27 +44,36 @@ func getCollection() *mongo.Collection {
 	return client.Database(MONGODB_DATABASE).Collection(MONGODB_COLLECTION)
 }
 
-func getWords() []byte {
-	file, err := os.ReadFile("assets/words.json")
+func GetWords() []Word {
+	coll := GetCollection()
+
+	var words []Word
+	cursor, err := coll.Find(context.TODO(), bson.D{})
 	CheckError(err)
 
-	return file
-}
-
-func parseWords(file []byte) []Word {
-	var words []Word
-	err := json.Unmarshal(file, &words)
+	err = cursor.All(context.TODO(), &words)
 	CheckError(err)
 
 	return words
 }
 
-func randomWord(data []Word) Word {
+func ParseWords() []Word {
+	file, err := os.ReadFile("assets/words.json")
+	CheckError(err)
+
+	var words []Word
+	err = json.Unmarshal(file, &words)
+	CheckError(err)
+
+	return words
+}
+
+func RandomWord(data []Word) Word {
 	idx := rand.Intn(len(data))
 	return data[idx]
 }
 
-func randomWords(data []Word, count int) []Word {
+func RandomWords(data []Word, count int) []Word {
 	var words []Word
 
 	for i := 0; i < count; i++ {

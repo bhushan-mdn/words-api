@@ -1,32 +1,32 @@
-package main
+package database
 
 import (
 	"context"
 	"fmt"
 
+	"github.com/bhushan-mdn/words-api/utils"
+
 	"go.mongodb.org/mongo-driver/bson"
 )
 
-func migrate() {
+func Migrate() {
 
-	coll := getCollection()
+	coll := utils.GetCollection()
 
 	// Count all documents in the `words` collection
 	count, err := coll.CountDocuments(context.TODO(), bson.D{})
-	CheckError(err)
+	utils.CheckError(err)
 	fmt.Println(count)
 
 	// Check if data is already present
 	if count == 0 {
 
-		file := getWords()
-
-		words := parseWords(file)
+		words := utils.GetWords()
 
 		// Insert words into the coll
 		for _, word := range words {
 			_, err = coll.InsertOne(context.TODO(), word)
-			CheckError(err)
+			utils.CheckError(err)
 		}
 
 	} else {
