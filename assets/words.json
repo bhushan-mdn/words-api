@@ -1,0 +1,1430 @@
+[
+  {
+    "word": "abate",
+    "meaning": "v. to diminish in intensity\n v. to cause to diminish in intensity"
+  },
+  {
+    "word": "aberrant",
+    "meaning": "adj. diverging from the standard type"
+  },
+  {
+    "word": "abjure",
+    "meaning": "v. to reject or renounce"
+  },
+  {
+    "word": "abscond",
+    "meaning": "v. to leave secretly, evading detection"
+  },
+  {
+    "word": "abstain",
+    "meaning": "v. to voluntarily refrain from doing something"
+  },
+  {
+    "word": "acumen",
+    "meaning": "n. keen judgment and perception"
+  },
+  {
+    "word": "admonish",
+    "meaning": "v. scold or to advise firmly"
+  },
+  {
+    "word": "adulterate",
+    "meaning": "v. to contaminate or make impure by introducing inferior elements"
+  },
+  {
+    "word": "advocate",
+    "meaning": "v. to recommend, support, or advise\n n. one who advocates"
+  },
+  {
+    "word": "aesthetic",
+    "meaning": "adj. concerned with the nature of beauty and art"
+  },
+  {
+    "word": "affectation",
+    "meaning": "n. fake or artificial behavior, often meant to impress or conceal the truth"
+  },
+  {
+    "word": "aggrandize",
+    "meaning": "v. enlarge or increase, esp. wealth, power, reputation"
+  },
+  {
+    "word": "alacrity",
+    "meaning": "n. promptness and eagerness"
+  },
+  {
+    "word": "alleviate",
+    "meaning": "v. to relieve a problem or ease a burden"
+  },
+  {
+    "word": "amalgamate",
+    "meaning": "v. to combine to or mix together"
+  },
+  {
+    "word": "ambiguous",
+    "meaning": "adj. unclear\n adj. open to multiple interpretations"
+  },
+  {
+    "word": "ambivalent",
+    "meaning": "adj. having mixed or contradictory feelings about someone or something"
+  },
+  {
+    "word": "ameliorate",
+    "meaning": "v. to improve or mitigate a situation"
+  },
+  {
+    "word": "amenable",
+    "meaning": "adj. easily convinced or persuaded"
+  },
+  {
+    "word": "anachronism",
+    "meaning": "n. something old-fashioned\n n. something appearing in a time period where it does not belong"
+  },
+  {
+    "word": "analogous",
+    "meaning": "n. comparable\n n. appropriate for analogy"
+  },
+  {
+    "word": "anoint",
+    "meaning": "v. to choose for a particular office or position\n v. to use oil on a person in a religious ceremony"
+  },
+  {
+    "word": "anomaly",
+    "meaning": "n. an exception or unusual case"
+  },
+  {
+    "word": "antipathy",
+    "meaning": "n. strong dislike or hatred"
+  },
+  {
+    "word": "antithetical",
+    "meaning": "adj. contrary to the very nature of"
+  },
+  {
+    "word": "apathy",
+    "meaning": "n. state of total disinterest or unenthusiasm"
+  },
+  {
+    "word": "appease",
+    "meaning": "v. to placate\n v. to satisfy (an appetite, a need)"
+  },
+  {
+    "word": "arbitrary",
+    "meaning": "adj. seemingly chosen or designated without reason or purpose"
+  },
+  {
+    "word": "arcane",
+    "meaning": "adj. secret or known only to a select group"
+  },
+  {
+    "word": "archaic",
+    "meaning": "adj. old-fashioned\n adj. no longer in the common usage"
+  },
+  {
+    "word": "arduous",
+    "meaning": "adj. difficult, taxing, requiring considerable effort"
+  },
+  {
+    "word": "articulate",
+    "meaning": "adj. exhibiting considerable communication skills, well-spoken"
+  },
+  {
+    "word": "artless",
+    "meaning": "adj. without artifice\n adj. natural, untrained"
+  },
+  {
+    "word": "ascetic",
+    "meaning": "adj. austere or self-denying"
+  },
+  {
+    "word": "assuage",
+    "meaning": "v. to provide relief from an unpleasant feeling\n v. to satisfy a need or appetite"
+  },
+  {
+    "word": "astonishment",
+    "meaning": "n. total surprise, shock"
+  },
+  {
+    "word": "audacious",
+    "meaning": "adj. very bold or presumptuous"
+  },
+  {
+    "word": "austere",
+    "meaning": "adj. severe, unadorned"
+  },
+  {
+    "word": "avarice",
+    "meaning": "n. greed"
+  },
+  {
+    "word": "aver",
+    "meaning": "v. to assert or allege"
+  },
+  {
+    "word": "banal",
+    "meaning": "adj. boring, cliché"
+  },
+  {
+    "word": "belie",
+    "meaning": "v. give a false impression (intentional or unintentional) in word, appearance, or deed"
+  },
+  {
+    "word": "benign",
+    "meaning": "adj. gentle, harmless"
+  },
+  {
+    "word": "biased",
+    "meaning": "adj. prejudiced, displaying partiality"
+  },
+  {
+    "word": "bolster",
+    "meaning": "v. to shore up or support"
+  },
+  {
+    "word": "bombastic",
+    "meaning": "adj. overblown, theatrical"
+  },
+  {
+    "word": "brazen",
+    "meaning": "adj. bold or open to the point of shocking\n adj. shameless"
+  },
+  {
+    "word": "bucolic",
+    "meaning": "adj. pastoral, rustic, countryfied"
+  },
+  {
+    "word": "burgeon",
+    "meaning": "v. flourish, bloom, expand or increase quickly"
+  },
+  {
+    "word": "cacophony",
+    "meaning": "n. loud and chaotic noise"
+  },
+  {
+    "word": "calumny",
+    "meaning": "n. lie or slander"
+  },
+  {
+    "word": "candid",
+    "meaning": "adj. honest, open"
+  },
+  {
+    "word": "canon",
+    "meaning": "n. accepted rules and tenets of a discipline\n n. sacred works/scripture; in this sense it is also used to refer to notable literary and artistic works of a culture or discipline"
+  },
+  {
+    "word": "capacity",
+    "meaning": "n. the capability to perform a particular action or fulfill a given function\n n. the total amount a container can hold\n n. a particular position or role (i.e. “she served in an advisory capacity”)"
+  },
+  {
+    "word": "capricious",
+    "meaning": "adj. mercurial, unpredictable, whimsical"
+  },
+  {
+    "word": "castigate",
+    "meaning": "v. to scold or berate strongly"
+  },
+  {
+    "word": "catalyst",
+    "meaning": "n. something that speeds up a process or causes action"
+  },
+  {
+    "word": "caustic",
+    "meaning": "adj. corrosive\n adj. bitterly sarcastic"
+  },
+  {
+    "word": "censure",
+    "meaning": "v. to express intense condemnation"
+  },
+  {
+    "word": "chauvinist",
+    "meaning": "n. someone who believes prejudicially that their own group is the superior one"
+  },
+  {
+    "word": "chicanery",
+    "meaning": "n. trickery or deception"
+  },
+  {
+    "word": "chronological",
+    "meaning": "adj. ordered by time"
+  },
+  {
+    "word": "coalesce",
+    "meaning": "v. to come together, esp. from disparate parts"
+  },
+  {
+    "word": "cogent",
+    "meaning": "adj. clearly laid out and persuasive"
+  },
+  {
+    "word": "commensurate",
+    "meaning": "adj. in accordance with, proportional"
+  },
+  {
+    "word": "compelling",
+    "meaning": "adj. captivating\n adj. very persuasive"
+  },
+  {
+    "word": "comprehensive",
+    "meaning": "adj. complete and thorough"
+  },
+  {
+    "word": "condone",
+    "meaning": "v. to approve or allow"
+  },
+  {
+    "word": "confound",
+    "meaning": "v. to confuse or astonish"
+  },
+  {
+    "word": "connoisseur",
+    "meaning": "n. an expert in a particular subject matter area, usually relating to the fine arts or cultural pursuits"
+  },
+  {
+    "word": "consequential",
+    "meaning": "adj. as a result of\n adj. significant or memorable"
+  },
+  {
+    "word": "construe",
+    "meaning": "v. to interpret"
+  },
+  {
+    "word": "consumption",
+    "meaning": "n. utilization (esp. of a resource)"
+  },
+  {
+    "word": "contend",
+    "meaning": "v. assert or claim\n v. grapple with"
+  },
+  {
+    "word": "contentious",
+    "meaning": "adj. controversial\n adj. involving conflict"
+  },
+  {
+    "word": "contrite",
+    "meaning": "adj. remorseful"
+  },
+  {
+    "word": "convoluted",
+    "meaning": "adj. roundabout, not straightforward"
+  },
+  {
+    "word": "copious",
+    "meaning": "adj. plentiful or abundant"
+  },
+  {
+    "word": "cosmopolitan",
+    "meaning": "adj. of or relating to a city or urban area\n adj. sophisticated"
+  },
+  {
+    "word": "covet",
+    "meaning": "v. to desire something that does not belong to you"
+  },
+  {
+    "word": "craft",
+    "meaning": "n. cunning\n n. skill"
+  },
+  {
+    "word": "craven",
+    "meaning": "adj. cowardly to the point of being shameful"
+  },
+  {
+    "word": "credence",
+    "meaning": "n. belief or trust"
+  },
+  {
+    "word": "credulous",
+    "meaning": "adj. gullible, naïve"
+  },
+  {
+    "word": "decorum",
+    "meaning": "n. appropriate behavior or good manners"
+  },
+  {
+    "word": "deference",
+    "meaning": "n. respect or polite submission"
+  },
+  {
+    "word": "deflect",
+    "meaning": "v. divert or cause to ricochet"
+  },
+  {
+    "word": "deftness",
+    "meaning": "adj. skill, acumen\n adj. manual dexterity"
+  },
+  {
+    "word": "delineate",
+    "meaning": "v. to describe very accurately\n v. to clearly demarcate a boundary\n v. to render an outline"
+  },
+  {
+    "word": "demur",
+    "meaning": "v. to object or raise concerns"
+  },
+  {
+    "word": "denigrate",
+    "meaning": "v. say negative things about, particularly in a defamatory way"
+  },
+  {
+    "word": "deride",
+    "meaning": "v. to mock or ridicule"
+  },
+  {
+    "word": "derivative",
+    "meaning": "adj. imitates another work in a way that is unoriginal or uninspiring"
+  },
+  {
+    "word": "desiccate",
+    "meaning": "v. to dry out completely\n v. to suck out the vitality and passion"
+  },
+  {
+    "word": "desultory",
+    "meaning": "adj. halfhearted\n adj. inconsistent or random"
+  },
+  {
+    "word": "detachment",
+    "meaning": "n. objectivity or aloofness"
+  },
+  {
+    "word": "determinant",
+    "meaning": "n. a strong factor in an outcome"
+  },
+  {
+    "word": "diatribe",
+    "meaning": "n. a rant or angry speech denouncing someone or something"
+  },
+  {
+    "word": "didactic",
+    "meaning": "adj. educational or with an instructive purpose; often includes an element of moralizing"
+  },
+  {
+    "word": "diffident",
+    "meaning": "adj. shy, timid, or reserved due to a lack of confidence"
+  },
+  {
+    "word": "dilettante",
+    "meaning": "n. someone with an amateur, nonserious interest in something"
+  },
+  {
+    "word": "dirge",
+    "meaning": "n. funeral or mourning lament\n n. any sad, slow song"
+  },
+  {
+    "word": "disabuse",
+    "meaning": "v. to dispel someone’s illusions or false impressions about something"
+  },
+  {
+    "word": "discern",
+    "meaning": "v. to perceive"
+  },
+  {
+    "word": "discrepancy",
+    "meaning": "n. inconsistency"
+  },
+  {
+    "word": "disinterested",
+    "meaning": "adj. objective, unbiased\n adj. not invested in the outcome"
+  },
+  {
+    "word": "disparage",
+    "meaning": "v. to belittle"
+  },
+  {
+    "word": "disparate",
+    "meaning": "adj. dissimilar to such a degree that comparison is not possible"
+  },
+  {
+    "word": "dispassionate",
+    "meaning": "adj. impartial or cool"
+  },
+  {
+    "word": "disregard",
+    "meaning": "v. to ignore or pay no attention to"
+  },
+  {
+    "word": "dissemble",
+    "meaning": "v. to mislead or conceal the truth, esp. with respect to one’s motives"
+  },
+  {
+    "word": "disseminate",
+    "meaning": "v. to spread widely (esp. information)"
+  },
+  {
+    "word": "dissonance",
+    "meaning": "n. a clash between two elements that don’t blend well"
+  },
+  {
+    "word": "diverge",
+    "meaning": "v. to split apart, esp. a road or path"
+  },
+  {
+    "word": "dogma",
+    "meaning": "n. the official beliefs or tenets of particular sect or group"
+  },
+  {
+    "word": "dupe",
+    "meaning": "v. to deceive or fool"
+  },
+  {
+    "word": "ebullient",
+    "meaning": "adj. cheerful, enthusiastic, excited"
+  },
+  {
+    "word": "eccentric",
+    "meaning": "adj. quirky or unusual"
+  },
+  {
+    "word": "eclectic",
+    "meaning": "adj. composed of a variety of styles, themes, motifs, etc."
+  },
+  {
+    "word": "efficacy",
+    "meaning": "n. effectiveness"
+  },
+  {
+    "word": "elegy",
+    "meaning": "n. sad poem or song, often in remembrance of someone deceased"
+  },
+  {
+    "word": "elicit",
+    "meaning": "v. to provoke a response"
+  },
+  {
+    "word": "eloquence",
+    "meaning": "adj. persuasive and articulate speech"
+  },
+  {
+    "word": "eminent",
+    "meaning": "adj. well-known, respected, distinguished"
+  },
+  {
+    "word": "empirical",
+    "meaning": "adj. based on evidence"
+  },
+  {
+    "word": "emulate",
+    "meaning": "v. to imitate or attempt to equal in accomplishment"
+  },
+  {
+    "word": "enervate",
+    "meaning": "v. to exhaust or drain of energy"
+  },
+  {
+    "word": "engender",
+    "meaning": "v. to cause or give rise to"
+  },
+  {
+    "word": "enhance",
+    "meaning": "v. intensify, increase, augment"
+  },
+  {
+    "word": "entitlement",
+    "meaning": "n. belief that one deserves things one has not earned\n n. the rights one is afforded under the law"
+  },
+  {
+    "word": "ephemeral",
+    "meaning": "adj. short-lived or transient"
+  },
+  {
+    "word": "equable",
+    "meaning": "adj. even-tempered\n adj. not given to much change or variation"
+  },
+  {
+    "word": "equivocate",
+    "meaning": "v. to use ambiguous language in order to mislead or deceive"
+  },
+  {
+    "word": "erroneous",
+    "meaning": "adj. incorrect"
+  },
+  {
+    "word": "erudite",
+    "meaning": "adj. learned"
+  },
+  {
+    "word": "eschew",
+    "meaning": "v. avoid or abstain from"
+  },
+  {
+    "word": "esoteric",
+    "meaning": "adj. obscure, arcane"
+  },
+  {
+    "word": "estimable",
+    "meaning": "adj. deserving respect, esteem, and admiration"
+  },
+  {
+    "word": "eulogy",
+    "meaning": "n. memorial speech for one who has passed, normally given at a funeral"
+  },
+  {
+    "word": "exacerbate",
+    "meaning": "v. to make worse"
+  },
+  {
+    "word": "exacting",
+    "meaning": "adj. challenging, demanding, grueling"
+  },
+  {
+    "word": "exculpate",
+    "meaning": "v. to exonerate or vindicate"
+  },
+  {
+    "word": "exigent",
+    "meaning": "adj. urgent or pressing"
+  },
+  {
+    "word": "exonerate",
+    "meaning": "v. to clear of charges of wrongdoing"
+  },
+  {
+    "word": "expatiate",
+    "meaning": "v. to elaborate on something in great detail"
+  },
+  {
+    "word": "explicate",
+    "meaning": "v. to explain in detail"
+  },
+  {
+    "word": "exposition",
+    "meaning": "n. a thorough explanation\n n. a public show or fair"
+  },
+  {
+    "word": "extraneous",
+    "meaning": "adj. irrelevant or superfluous"
+  },
+  {
+    "word": "extrapolate",
+    "meaning": "v. to estimate or conjecture about the future based on presently available information or facts"
+  },
+  {
+    "word": "facetious",
+    "meaning": "adj. glib or flippant"
+  },
+  {
+    "word": "facilitate",
+    "meaning": "v. to make something easier or simpler"
+  },
+  {
+    "word": "fallacious",
+    "meaning": "adj. relying on a fallacy and thus incorrect/misinformed"
+  },
+  {
+    "word": "fastidious",
+    "meaning": "adj. meticulous\n adj. invested in cleanliness"
+  },
+  {
+    "word": "fluctuate",
+    "meaning": "v. to shift without apparent pattern"
+  },
+  {
+    "word": "foment",
+    "meaning": "v. to foster unrest or discontent"
+  },
+  {
+    "word": "forestall",
+    "meaning": "v. to hold off or try to prevent"
+  },
+  {
+    "word": "fortuitous",
+    "meaning": "adj. fortunate and lucky"
+  },
+  {
+    "word": "frugal",
+    "meaning": "adj. economical, thrifty"
+  },
+  {
+    "word": "gainsay",
+    "meaning": "v. deny or oppose"
+  },
+  {
+    "word": "galvanize",
+    "meaning": "v. to prod someone into action"
+  },
+  {
+    "word": "garrulous",
+    "meaning": "adj. talkative"
+  },
+  {
+    "word": "gauche",
+    "meaning": "adj. socially inept, inappropriate, or awkward"
+  },
+  {
+    "word": "germane",
+    "meaning": "adj. relevant to the matter at hand"
+  },
+  {
+    "word": "glib",
+    "meaning": "adj. talking volubly, but carelessly or insincerely"
+  },
+  {
+    "word": "gregarious",
+    "meaning": "adj. sociable, genial"
+  },
+  {
+    "word": "guile",
+    "meaning": "n. craftiness and cunning"
+  },
+  {
+    "word": "hackneyed",
+    "meaning": "adj. cliché, trite, banal"
+  },
+  {
+    "word": "harangue",
+    "meaning": "n. diatribe or rant"
+  },
+  {
+    "word": "hedonism",
+    "meaning": "n. the pursuit of pleasure"
+  },
+  {
+    "word": "hierarchical",
+    "meaning": "adj. arranged in rank order or hierarchy"
+  },
+  {
+    "word": "homogenous",
+    "meaning": "adj. uniform, identical"
+  },
+  {
+    "word": "hyperbole",
+    "meaning": "n. obvious exaggeration for effect"
+  },
+  {
+    "word": "iconoclast",
+    "meaning": "n. a person who attacks traditional religious and cultural institutions"
+  },
+  {
+    "word": "ideological",
+    "meaning": "adj. relating to a particular belief system or theory"
+  },
+  {
+    "word": "imminent",
+    "meaning": "adj. about to happen"
+  },
+  {
+    "word": "immutable",
+    "meaning": "adj. unchangeable"
+  },
+  {
+    "word": "impair",
+    "meaning": "v. to hinder or weaken someone or something"
+  },
+  {
+    "word": "impediment",
+    "meaning": "n. barrier, hindrance, or obstruction"
+  },
+  {
+    "word": "imperturbable",
+    "meaning": "adj. remaining calm under any circumstance"
+  },
+  {
+    "word": "implacable",
+    "meaning": "adj. unforgiving\n adj. relentless"
+  },
+  {
+    "word": "implicit",
+    "meaning": "adj. implied or insinuated without being directly stated"
+  },
+  {
+    "word": "imprudence",
+    "meaning": "n. bad judgment"
+  },
+  {
+    "word": "impudent",
+    "meaning": "adj. disrespectful"
+  },
+  {
+    "word": "inadvertent",
+    "meaning": "adj. by accident or unintentional"
+  },
+  {
+    "word": "Inchoate",
+    "meaning": "adj. rudimentary, in the beginning stages"
+  },
+  {
+    "word": "inconclusive",
+    "meaning": "adj. indeterminate or unresolved"
+  },
+  {
+    "word": "indebted",
+    "meaning": "adj. owing money\n adj. owing gratitude to someone or something"
+  },
+  {
+    "word": "indefatigable",
+    "meaning": "adj. cannot be made tired"
+  },
+  {
+    "word": "indolent",
+    "meaning": "adj. lazy\n adj. idle"
+  },
+  {
+    "word": "infer",
+    "meaning": "v. to conclude from implicit evidence (as opposed to explicit facts)"
+  },
+  {
+    "word": "ingenuous",
+    "meaning": "adj. naïve or innocent"
+  },
+  {
+    "word": "inimical",
+    "meaning": "adj. harmful or hostile"
+  },
+  {
+    "word": "Innocuous",
+    "meaning": "adj. harmless"
+  },
+  {
+    "word": "inscrutable",
+    "meaning": "adj. enigmatic, incomprehensible"
+  },
+  {
+    "word": "insipid",
+    "meaning": "adj. bland, uninspired, inane"
+  },
+  {
+    "word": "insular",
+    "meaning": "adj. tight-knit and isolated; uninterested in matters outside one’s immediate sphere"
+  },
+  {
+    "word": "intensive",
+    "meaning": "adj. concentrated and in-depth"
+  },
+  {
+    "word": "intermediary",
+    "meaning": "n. a go-between"
+  },
+  {
+    "word": "intimate",
+    "meaning": "adj. close (as in a relationship)\n adj. particularly private\n v. to imply"
+  },
+  {
+    "word": "intractable",
+    "meaning": "adj. unmanageable\n adj. stubborn or obstinate"
+  },
+  {
+    "word": "intransigent",
+    "meaning": "adj. uncompromising, obstinate"
+  },
+  {
+    "word": "intrepid",
+    "meaning": "adj. bold and adventurous"
+  },
+  {
+    "word": "inveterate",
+    "meaning": "adj. ingrained, habitual"
+  },
+  {
+    "word": "invulnerable",
+    "meaning": "adj. indestructible, impervious to harm"
+  },
+  {
+    "word": "irascible",
+    "meaning": "adj. irritable, testy, touchy"
+  },
+  {
+    "word": "irresolute",
+    "meaning": "adj. wishy-washy, hesitant"
+  },
+  {
+    "word": "laconic",
+    "meaning": "adj. taciturn, reserved, succinct"
+  },
+  {
+    "word": "laud",
+    "meaning": "v. to praise"
+  },
+  {
+    "word": "laudable",
+    "meaning": "adj. praiseworthy"
+  },
+  {
+    "word": "litigation",
+    "meaning": "n. legal proceedings"
+  },
+  {
+    "word": "loquacious",
+    "meaning": "adj. talkative"
+  },
+  {
+    "word": "lucid",
+    "meaning": "adj. clear and coherent"
+  },
+  {
+    "word": "luminous",
+    "meaning": "adj. full of light"
+  },
+  {
+    "word": "magnanimity",
+    "meaning": "n. generosity and nobility of spirit"
+  },
+  {
+    "word": "maladroit",
+    "meaning": "adj. clumsy, awkward, inept"
+  },
+  {
+    "word": "malign",
+    "meaning": "adj. evil or harmful\n v. to speak negatively about someone or something"
+  },
+  {
+    "word": "malleable",
+    "meaning": "adj. pliant or pliable\n adj. easily influenced"
+  },
+  {
+    "word": "maverick",
+    "meaning": "n. an unorthodox person or rebel"
+  },
+  {
+    "word": "mendacity",
+    "meaning": "n. untruthfulness, dishonesty"
+  },
+  {
+    "word": "mercurial",
+    "meaning": "adj. easily changeable, fickle"
+  },
+  {
+    "word": "meticulous",
+    "meaning": "adj. paying close attention to detail"
+  },
+  {
+    "word": "misanthrope",
+    "meaning": "n. person who hates humanity"
+  },
+  {
+    "word": "mitigate",
+    "meaning": "v. to improve a painful, unpleasant, or negative situation"
+  },
+  {
+    "word": "modest",
+    "meaning": "adj. not boastful\n adj. not overly showy"
+  },
+  {
+    "word": "mollify",
+    "meaning": "v. placate"
+  },
+  {
+    "word": "monotony",
+    "meaning": "n. boredom and repetition"
+  },
+  {
+    "word": "mundane",
+    "meaning": "adj. everyday, boring"
+  },
+  {
+    "word": "munificent",
+    "meaning": "adj. very generous"
+  },
+  {
+    "word": "naïve",
+    "meaning": "adj. inexperienced or gullible"
+  },
+  {
+    "word": "nascent",
+    "meaning": "adj. just beginning or in the early stages"
+  },
+  {
+    "word": "neglect",
+    "meaning": "v. to abandon or leave uncared-for"
+  },
+  {
+    "word": "nonplussed",
+    "meaning": "adj. confused and baffled"
+  },
+  {
+    "word": "notoriety",
+    "meaning": "n. fame for doing something negative or criminal"
+  },
+  {
+    "word": "nuance",
+    "meaning": "n. subtle shades of difference"
+  },
+  {
+    "word": "obdurate",
+    "meaning": "adj. stubborn, obstinate"
+  },
+  {
+    "word": "obscure",
+    "meaning": "adj. mysterious or not well-known\n v. to cover something up or make it more difficult to perceive"
+  },
+  {
+    "word": "obsequious",
+    "meaning": "adj. overly fawning and helpful in a way that is disingenuous"
+  },
+  {
+    "word": "obstinate",
+    "meaning": "adj. stubborn, uncompromising"
+  },
+  {
+    "word": "obviate",
+    "meaning": "v. to forestall the need for something\n v. to prevent"
+  },
+  {
+    "word": "occlude",
+    "meaning": "v. to block or obstruct"
+  },
+  {
+    "word": "occult",
+    "meaning": "n. the mystical and supernatural"
+  },
+  {
+    "word": "offset",
+    "meaning": "v. to counterbalance or counteract"
+  },
+  {
+    "word": "olfactory",
+    "meaning": "adj. relating to smell or the sense of smell"
+  },
+  {
+    "word": "omniscience",
+    "meaning": "n. the quality or state of being all-knowing"
+  },
+  {
+    "word": "onerous",
+    "meaning": "adj. difficult or burdensome"
+  },
+  {
+    "word": "opaque",
+    "meaning": "adj. not see-through; blocking light"
+  },
+  {
+    "word": "opportunism",
+    "meaning": "n. the practice of taking advantage of opportunities as they arise without particular concern for morality or ethics"
+  },
+  {
+    "word": "opprobrium",
+    "meaning": "n. criticism or condemnation"
+  },
+  {
+    "word": "oscillate",
+    "meaning": "v. to swing back and forth between two points, poles, or positions"
+  },
+  {
+    "word": "ostentatious",
+    "meaning": "adj. overly showy in a way that is gaudy or vulgar"
+  },
+  {
+    "word": "outstrip",
+    "meaning": "v. to overtake or outrun"
+  },
+  {
+    "word": "overshadow",
+    "meaning": "v. to literally cast a shadow over\n v. to appear more notable than"
+  },
+  {
+    "word": "painstaking",
+    "meaning": "adj. attentive to detail, meticulous"
+  },
+  {
+    "word": "partial",
+    "meaning": "adj. incomplete"
+  },
+  {
+    "word": "partisan",
+    "meaning": "n. a devoted supporter of a group, cause, or person"
+  },
+  {
+    "word": "patent",
+    "meaning": "adj. blatant, obvious"
+  },
+  {
+    "word": "paucity",
+    "meaning": "n. scarcity, poverty"
+  },
+  {
+    "word": "pedantic",
+    "meaning": "adj. overly concerned with irrelevant detail, fussy"
+  },
+  {
+    "word": "pedestrian",
+    "meaning": "adj. boring, monotonous, run-of-the-mill"
+  },
+  {
+    "word": "perfidy",
+    "meaning": "n. treachery or deceit"
+  },
+  {
+    "word": "perfunctory",
+    "meaning": "adj. done without much effort, care, or thought"
+  },
+  {
+    "word": "peripheral",
+    "meaning": "adj. on the edge or periphery; not centrally important"
+  },
+  {
+    "word": "permeate",
+    "meaning": "v. to pervade or penetrate throughout"
+  },
+  {
+    "word": "perseverance",
+    "meaning": "n. persistence in the face of obstacles"
+  },
+  {
+    "word": "peruse",
+    "meaning": "v. to read something carefully and closely\n v. to read something informally or quickly\n (context is critical for this word!)"
+  },
+  {
+    "word": "pervasive",
+    "meaning": "adj. found everywhere, widespread; often has a negative connotation"
+  },
+  {
+    "word": "phenomena",
+    "meaning": "n. things that happen"
+  },
+  {
+    "word": "phlegmatic",
+    "meaning": "adj. cool and unruffled"
+  },
+  {
+    "word": "pith",
+    "meaning": "n. the essential substance of something"
+  },
+  {
+    "word": "placate",
+    "meaning": "v. to calm, esp. an angry or upset person"
+  },
+  {
+    "word": "plastic",
+    "meaning": "adj. easily shaped or molded\n adj. made of plastic"
+  },
+  {
+    "word": "platitude",
+    "meaning": "n. a trite or cliché statement"
+  },
+  {
+    "word": "plausible",
+    "meaning": "adj. believable, reasonable"
+  },
+  {
+    "word": "plethora",
+    "meaning": "n. a surplus or overabundance of something"
+  },
+  {
+    "word": "plummet",
+    "meaning": "v. to fall quickly and far"
+  },
+  {
+    "word": "polarize",
+    "meaning": "v. to cause a sharp division between two groups"
+  },
+  {
+    "word": "polemical",
+    "meaning": "adj. angry, hostile, harshly critical"
+  },
+  {
+    "word": "pragmatic",
+    "meaning": "adj. practical"
+  },
+  {
+    "word": "precarious",
+    "meaning": "adj. uncertain or unstable"
+  },
+  {
+    "word": "preceded",
+    "meaning": "adj. went before"
+  },
+  {
+    "word": "precipitate",
+    "meaning": "v. to cause\n adj. hastily and not well-considered\n n. particulate matter formed within a solution"
+  },
+  {
+    "word": "precursor",
+    "meaning": "n. a forerunner"
+  },
+  {
+    "word": "prescient",
+    "meaning": "adj. knowing things before they happen, prophetic"
+  },
+  {
+    "word": "presumptuous",
+    "meaning": "adj. overly familiar; invades social boundaries"
+  },
+  {
+    "word": "prevail",
+    "meaning": "v. to succeed, esp. with respect to vanquishing an opponent\n v. to convince or persuade"
+  },
+  {
+    "word": "prevaricate",
+    "meaning": "v. to evade or deceive without outright lying"
+  },
+  {
+    "word": "pristine",
+    "meaning": "adj. untouched, clean, pure"
+  },
+  {
+    "word": "probity",
+    "meaning": "n. integrity and honor"
+  },
+  {
+    "word": "prodigal",
+    "meaning": "n. a reckless spender"
+  },
+  {
+    "word": "prodigious",
+    "meaning": "adj. enormous, immense, gigantic"
+  },
+  {
+    "word": "profligate",
+    "meaning": "adj. extravagant and wasteful, esp. in an immoral way"
+  },
+  {
+    "word": "proliferate",
+    "meaning": "v. to multiply and spread rapidly"
+  },
+  {
+    "word": "propitiate",
+    "meaning": "v. to obtain special favor from someone, esp. a powerful person or deity, by performing a pleasing action\n v. to appease someone who is angry"
+  },
+  {
+    "word": "propriety",
+    "meaning": "n. appropriateness, manners, decorum"
+  },
+  {
+    "word": "prospective",
+    "meaning": "adj. potential or likely\n adj. applicable to the future"
+  },
+  {
+    "word": "qualification",
+    "meaning": "n. credential\n n. a modifying statement"
+  },
+  {
+    "word": "quotidian",
+    "meaning": "adj. relating to the everyday or mundane"
+  },
+  {
+    "word": "rationalize",
+    "meaning": "v. to attempt to justify with reasons that are only superficially valid"
+  },
+  {
+    "word": "reconcile",
+    "meaning": "v. to bring into harmony\n v. to repair a relationship"
+  },
+  {
+    "word": "recondite",
+    "meaning": "adj. arcane or obscure"
+  },
+  {
+    "word": "refute",
+    "meaning": "v. to rebut or disprove"
+  },
+  {
+    "word": "relentless",
+    "meaning": "adj. never stopping, constant"
+  },
+  {
+    "word": "relevant",
+    "meaning": "adj. relating to the topic or issue at hand"
+  },
+  {
+    "word": "reproach",
+    "meaning": "v. to scold or express criticism"
+  },
+  {
+    "word": "repudiate",
+    "meaning": "v. to renounce or disown"
+  },
+  {
+    "word": "rescind",
+    "meaning": "v. to take back or retract (an offer or statement)"
+  },
+  {
+    "word": "respectively",
+    "meaning": "adv. in the sequential order previously given"
+  },
+  {
+    "word": "reticent",
+    "meaning": "adj. hesitant to speak\n adj. introverted or silent"
+  },
+  {
+    "word": "reverent",
+    "meaning": "adj. solemn and respectful"
+  },
+  {
+    "word": "rhetoric",
+    "meaning": "n. the art of effective communication (written or verbal)"
+  },
+  {
+    "word": "salubrious",
+    "meaning": "adj. health-promoting"
+  },
+  {
+    "word": "sanction",
+    "meaning": "v. to give official permission\n v. to impose a penalty for a particular action\n n. punishments imposed for breaking a regulation"
+  },
+  {
+    "word": "satiate",
+    "meaning": "v. to completely satisfy (with respect to hunger or appetite)"
+  },
+  {
+    "word": "secular",
+    "meaning": "adj. of or relating to the world or worldly matters (as opposed to religious ones)"
+  },
+  {
+    "word": "sediment",
+    "meaning": "n. material that settles at the bottom of a body of water"
+  },
+  {
+    "word": "sedulous",
+    "meaning": "adj. dedicated and careful"
+  },
+  {
+    "word": "simultaneous",
+    "meaning": "adj. occurring at the same moment"
+  },
+  {
+    "word": "solicitous",
+    "meaning": "adj. considerate, attentive"
+  },
+  {
+    "word": "soporific",
+    "meaning": "adj. makes sleepy"
+  },
+  {
+    "word": "sparse",
+    "meaning": "adj. scattered or scarce\n adj. austere and unadorned"
+  },
+  {
+    "word": "specious",
+    "meaning": "adj. spurious; appearing true but actually false"
+  },
+  {
+    "word": "sporadic",
+    "meaning": "adj. occasional or scattered"
+  },
+  {
+    "word": "spurious",
+    "meaning": "adj. fake or false"
+  },
+  {
+    "word": "stolid",
+    "meaning": "adj. calm and dependable"
+  },
+  {
+    "word": "subjective",
+    "meaning": "adj. open to personal interpretation; not based in objective fact"
+  },
+  {
+    "word": "substantiate",
+    "meaning": "v. to corroborate or give evidence of something"
+  },
+  {
+    "word": "subversive",
+    "meaning": "adj. meant to undercut established institutions or norms"
+  },
+  {
+    "word": "sufficient",
+    "meaning": "adj. enough for a given purpose"
+  },
+  {
+    "word": "superbly",
+    "meaning": "adv. excellently"
+  },
+  {
+    "word": "supine",
+    "meaning": "adj. laying back with the face upward (opposite position to prone)"
+  },
+  {
+    "word": "supplant",
+    "meaning": "v. to overtake or replace"
+  },
+  {
+    "word": "sycophant",
+    "meaning": "n. a fawning, insincere admirer"
+  },
+  {
+    "word": "synthesize",
+    "meaning": "v. to combine disparate parts into a coherent whole"
+  },
+  {
+    "word": "tacit",
+    "meaning": "adj. unspoken; implicit"
+  },
+  {
+    "word": "taciturn",
+    "meaning": "adj. reticent or reserved; tending towards silence"
+  },
+  {
+    "word": "temperance",
+    "meaning": "n. moderation and restraint, sometimes used to specifically describe abstinence from alcohol"
+  },
+  {
+    "word": "tenuous",
+    "meaning": "adj. weak, flimsy, insubstantial"
+  },
+  {
+    "word": "timorous",
+    "meaning": "adj. meek or timid"
+  },
+  {
+    "word": "tirade",
+    "meaning": "n. an angry rant"
+  },
+  {
+    "word": "torpor",
+    "meaning": "n. tiredness, lethargy"
+  },
+  {
+    "word": "tortuous",
+    "meaning": "adj. winding or twisty\n adj. complicated"
+  },
+  {
+    "word": "tractable",
+    "meaning": "adj. can be easily influenced or managed"
+  },
+  {
+    "word": "transient",
+    "meaning": "adj. passes quickly; short-lived"
+  },
+  {
+    "word": "ubiquitous",
+    "meaning": "adj. ever-present or universal"
+  },
+  {
+    "word": "unadorned",
+    "meaning": "adj. plain; unembellished"
+  },
+  {
+    "word": "undermine",
+    "meaning": "v. to weaken or compromise"
+  },
+  {
+    "word": "underscore",
+    "meaning": "v. to line underneath for emphasis\n v. to emphasize"
+  },
+  {
+    "word": "untenable",
+    "meaning": "adj. weak or unsupportable, esp. with respect to an opinion or situation"
+  },
+  {
+    "word": "vacillate",
+    "meaning": "v. to shift between multiple options or opinions"
+  },
+  {
+    "word": "venality",
+    "meaning": "n. the state of being capable of being bribed"
+  },
+  {
+    "word": "venerate",
+    "meaning": "v. to give a high degree of respect; may border on worship"
+  },
+  {
+    "word": "veracity",
+    "meaning": "n. Truth and factual accuracy"
+  },
+  {
+    "word": "verbose",
+    "meaning": "adj. long-winded; loquacious"
+  },
+  {
+    "word": "vexation",
+    "meaning": "n. state of being frustrated, irritated, or concerned."
+  },
+  {
+    "word": "volatile",
+    "meaning": "adj. easily changeable or extreme; unstable"
+  },
+  {
+    "word": "whimsical",
+    "meaning": "adj. fanciful or capricious"
+  },
+  {
+    "word": "zeal",
+    "meaning": "n. passion or fervor"
+  }
+]
