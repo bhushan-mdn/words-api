@@ -1,0 +1,24 @@
+version: "3.7"
+services:
+  words-api:
+    build: .
+    ports:
+      - "5000:5000"
+    environment:
+      - SERVER_PORT="5000"
+      # - MONGODB_STRING="mongodb://localhost:27017"
+      # - MONGODB_DATABASE=testdb
+      # - MONGODB_COLLECTION=words
+    networks:
+      - server-side
+    depends_on:
+      - mongodb
+  mongodb:
+    image: mongo
+    restart: always
+    networks:
+      - server-side
+    ports:
+      - 27017:27017
+networks:
+  server-side: {}
