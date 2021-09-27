@@ -7,6 +7,7 @@ import (
 	"time"
 
 	"github.com/bhushan-mdn/words-api/routes"
+	"github.com/bhushan-mdn/words-api/utils"
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/cors"
 	"github.com/gofiber/fiber/v2/middleware/logger"
@@ -30,6 +31,11 @@ func init() {
 
 	serverCmd.PersistentFlags().StringVarP(&Port, "port", "p", "5000", "Enter the port for the server")
 
+	utils.Words = utils.GetWords()
+
+	utils.WordsList = utils.GetWordsList()
+
+	utils.WordsMap = utils.GetWordsMap()
 }
 
 // TODO: Organize into modules: routes, database, controllers
@@ -37,7 +43,7 @@ func init() {
 func Server() {
 	rand.Seed(time.Now().UnixNano())
 
-	fmt.Println("Server running at localhost:" + Port)
+	fmt.Println("Server running at localhost" + ":" + Port)
 
 	app := fiber.New()
 

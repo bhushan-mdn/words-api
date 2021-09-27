@@ -6,11 +6,6 @@ import (
 )
 
 func GetAvailableWords(c *fiber.Ctx) error {
-	words := utils.GetWords()
-	var resp []string
-	for _, v := range words {
-		resp = append(resp, v.Name)
-	}
 
-	return c.JSON(resp)
+	return c.JSON(utils.WordsList)
 }

@@ -6,7 +6,7 @@ import (
 )
 
 func GetRandomWord(c *fiber.Ctx) error {
-	words := utils.GetWords()
+	words := utils.Words
 	word := utils.RandomWord(words)
 
 	return c.JSON(word)

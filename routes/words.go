@@ -9,7 +9,7 @@ import (
 )
 
 func GetRandomWords(c *fiber.Ctx) error {
-	words := utils.GetWords()
+	words := utils.Words
 	query := c.Query("count", "")
 	if query == "" {
 		return c.SendString("Provide count.")
